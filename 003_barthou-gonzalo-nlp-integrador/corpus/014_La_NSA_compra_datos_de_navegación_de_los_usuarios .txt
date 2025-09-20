@@ -1,5 +1,8 @@
 URL: https://derechodelared.com/2024/01/29/nsa-compra-datos-navegacion/
 Título: La NSA compra datos de navegación de los usuarios americanos
+Autor/Fuente: No disponible
+Fecha: 2024-01-29T19:07:17+00:00
+Categoría: Noticia
 
 La Agencia de Seguridad Nacional de Estados Unidos (NSA) ha admitido haber comprado registros de navegación por Internet a empresas especializadas en la recopilación de datos para vigilar la actividad en línea de los estadounidenses sin tener una orden judicial para ello.
 La noticia ha saltado después de que el senador demócrata estadounidenseRon Wyden hiciese públicos unos documentos dónde se confirmaque la Agencia de Seguridad Nacional (NSA) compra los registros de navegación por Internet de los estadounidenses sin orden judicial.
@@ -8,4 +11,4 @@ Por ello, Wyden ha pedido al Gobierno norteamericano que cesen en esta practica,
 «El Gobierno de Estados Unidos no debería financiar y legitimar una industria cuyas flagrantes violaciones de la privacidad de los estadounidenses no sólo son poco éticas, sino ilegales»,escribe Wyden en una cartadirigida a la Directora de Inteligencia Nacional (DNI), Avril Haines. «A tal fin, le solicito que adopte una política según la cual, en adelante,  sólo puedan comprar datos sobre estadounidenses que cumplan la norma de venta legal de datos establecida por la FTC».
 El senador Wyden ha instado al DNI a dar instrucciones a las agencias de inteligencia para que cumplan la reciente normativa de la FTC adoptando tres medidas:
 «Según la FTC, no basta con que un consumidor dé su consentimiento para que una app o sitio web recopile esos datos, sino que se le debe informar y debe aceptar que sus datos se vendan a «contratistas gubernamentales con fines de seguridad nacional.» reconoce el senador.
-4.288.475 visitas
+4.288.476 visitas

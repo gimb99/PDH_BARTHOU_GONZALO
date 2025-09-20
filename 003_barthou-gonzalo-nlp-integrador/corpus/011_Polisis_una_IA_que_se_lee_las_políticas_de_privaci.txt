@@ -1,5 +1,8 @@
 URL: https://derechodelared.com/2019/10/30/polisis-pribot-2/
 Título: Polisis: una IA que se lee las políticas de privacidad por ti.
+Autor/Fuente: No disponible
+Fecha: 2019-10-30T18:00:50+00:00
+Categoría: Cyber
 
 ¿Cuántas veces has mirado Twitter hoy? ¿Cuántas veces has entrado en Instagram a ver los Stories de tus amigos? ¿Cuántas veces has entrado a contestar mensaje en WhatsApp? ¿Cuántas veces te has leído las políticas de privacidad de los sitios en los que estas registrado?
 Probablemente la respuesta oscile entre el -1 y el 0, pero no te preocupes, nadie va a juzgarte.
@@ -20,4 +23,4 @@ Más información |Polisis
 
 Δ
 Este sitio utiliza Akismet para reducir el spam.Conoce cómo se procesan los datos de tus comentarios.
-4.288.475 visitas
+4.288.476 visitas
