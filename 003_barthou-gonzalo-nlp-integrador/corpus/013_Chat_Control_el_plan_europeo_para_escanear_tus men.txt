@@ -1,0 +1,26 @@
+URL: https://derechodelared.com/2025/09/14/chat-control-el-plan-europeo-para-escanear-tus-mensajes/
+Título: Chat Control: el plan europeo para escanear tus mensajes
+Autor/Fuente: No disponible
+Fecha: 2025-09-14T18:15:40+00:00
+Categoría: Noticia
+
+
+La Unión Europea está en pleno debate sobre una de las propuestas más polémicas de los últimos años: el Reglamento para prevenir y combatir el abuso sexual infantil en línea, conocido popularmente como Chat Control.
+El objetivo declarado es claro: obligar a plataformas como WhatsApp, Telegram o Signal a detectar y reportar material ilegal. Pero la forma de hacerlo —escaneando mensajes privados, incluso cifrados— ha desatado una fuerte división en Europa.
+La propuesta plantea que los servicios de mensajería y correo electrónico deban analizar automáticamente los mensajes, fotos y archivos de sus usuarios. El fin es detectar material de abuso sexual infantil (CSAM) y reportarlo a las autoridades.
+El problema es que, para lograrlo, habría que revisar los mensajes antes de que se cifren (lo que se llama client-side scanning). En la práctica, esto podría debilitar el cifrado de extremo a extremo, esa tecnología que hoy garantiza que ni siquiera la propia empresa pueda leer lo que escribes.
+Privacidad: tus conversaciones privadas podrían dejar de serlo si un sistema automático revisa todo lo que envías. Seguridad: al debilitar el cifrado, se abren puertas que podrían ser aprovechadas por atacantes o gobiernos con menos garantías democráticas. Falsos positivos: la tecnología no es perfecta. Mensajes o fotos legítimos podrían acabar marcados como sospechosos, con consecuencias para usuarios inocentes.
+A día de hoy, los países de la UE están divididos.
+En contra(8 países): Austria, Bélgica, Chequia, Finlandia, Países Bajos, Polonia, Alemania y Luxemburgo.
+A favor(15 países): Bulgaria, Croacia, Chipre, Dinamarca, España, Francia, Hungría, Irlanda, Italia, Letonia, Lituania, Malta, Portugal, Eslovaquia y Suecia.
+Indecisos(4 países): Estonia, Grecia, Rumanía y Eslovenia.
+Esta división hace que alcanzar una mayoría cualificada en el Consejo de la UE sea complicado. Alemania y Luxemburgo se han sumado recientemente al bloque opositor, inclinando la balanza hacia el rechazo, aunque aún no hay decisión final.
+Si usas WhatsApp, Telegram, Signal o cualquier otro servicio de mensajería, lo que está en juego es si tus conversaciones seguirán siendo privadas.
+Con el sistema actual, el cifrado de extremo a extremo garantiza que solo tú y tu interlocutor podéis leer el mensaje (o eso es lo que nos prometen las plataformas). Con el Chat Control, una aplicación en tu dispositivo podría escanear el mensaje antes de enviarlo, para decidir si es sospechoso.
+Eso no quiere decir que un humano vaya a leer tus conversaciones una por una, pero sí que tu privacidad dejaría de ser absoluta.
+El Chat Control pone sobre la mesa un dilema muy complejo: ¿hasta dónde estamos dispuestos a llegar para perseguir delitos graves sin poner en riesgo derechos fundamentales como la privacidad?
+La votación definitiva se espera para octubre de 2025, y lo que decidan los países de la UE marcará el futuro de nuestras comunicaciones digitales. Como usuarios, conviene estar atentos: lo que parece un debate lejano en Bruselas puede cambiar de raíz cómo funcionan las aplicaciones que usamos todos los días
+
+Δ
+Este sitio utiliza Akismet para reducir el spam.Conoce cómo se procesan los datos de tus comentarios.
+4.288.476 visitas

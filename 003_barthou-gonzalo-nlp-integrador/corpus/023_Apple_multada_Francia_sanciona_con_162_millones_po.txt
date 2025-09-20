@@ -1,0 +1,17 @@
+URL: https://www.pagina12.com.ar/815391-apple-multada-francia-sanciona-con-162-millones-por-opacas-n
+Título: Apple multada: Francia sanciona con $162 millones por opacas normas de privacidad
+Autor/Fuente: No disponible
+Fecha: 2024-01-15T18:29:59+00:00
+Categoría: Noticia
+
+EN VIVO
+Appleenfrenta una fuerte sanción económica en Europa. La Autoridad de Competencia de Francia, organismo regulador del mercado, ha ordenado a la compañía tecnológica pagar una multa de 150 millones de euros, aproximadamente 162 millones de dólares. La razón: el sistema de Transparencia en el Seguimiento de Aplicaciones (App Tracking Transparency, ATT), implementado porAppleen 2021. Aunque presentado como una herramienta para dar mayor control a los usuarios sobre su privacidad, el regulador francés argumenta que este sistema crea obstáculos desproporcionados para los desarrolladores, en especial para aquellos más pequeños que no cuentan con bases de datos comerciales sólidas.
+Appleha defendido el ATT como un mecanismo para que los usuarios decidan si permiten el rastreo de sus datos. Sin embargo, la medida obliga a los desarrolladores externos a incluir dos ventanas emergentes para solicitar permisos, mientras que las aplicaciones propias deApplesolo requieren un clic para autorizar el acceso.
+Además, desactivar el seguimiento de ubicación en aplicaciones de terceros es más complejo que en las apps nativas deApple. Este desbalance entre desarrolladores independientes y la plataforma principal fue un punto clave señalado por la autoridad francesa.
+Desde su lanzamiento, el ATT ha sido criticado por su impacto en la industria de la publicidad personalizada. Un informe delFinancial Timesestimó pérdidas de alrededor de 10,000 millones de dólares para empresas comoSnapchat,FacebookyX(antesTwitter).
+No obstante, la multa busca principalmente compensar el efecto negativo en pequeños editores. Las restricciones del ATT han dificultado que estos puedan redirigir sus estrategias publicitarias al carecer de grandes volúmenes de datos propios.
+La compañía insiste en que sus políticas son iguales para todos los desarrolladores.Shane Bauer, portavoz deApple, destacó que el ATT recibió "un apoyo significativo de usuarios y organizaciones proprivacidad" a nivel mundial.
+Sin embargo, el regulador francés sostiene queAppleaplica prácticas desiguales que benefician a sus productos y perjudican la competencia. Aunque no se exige eliminar el ATT, la empresa deberá publicar un resumen de la decisión en su sitio web durante una semana.
+Esta medida busca informar al público sobre las consecuencias de políticas de privacidad mal implementadas. El caso establece un precedente relevante en el debate entre protección de datos y competencia justa en el sector tecnológico.
+
+Conocé todas las opciones del contenido que podés recibir en tu correo. Noticias, cultura, ciencia, economía, diversidad, lifestyle y mucho más, con la calidad de información del Grupo Octubre, el motor cultural de América Latina.
