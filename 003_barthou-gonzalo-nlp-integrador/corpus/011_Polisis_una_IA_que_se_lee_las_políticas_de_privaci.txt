@@ -1,0 +1,23 @@
+URL: https://derechodelared.com/2019/10/30/polisis-pribot-2/
+Título: Polisis: una IA que se lee las políticas de privacidad por ti.
+
+¿Cuántas veces has mirado Twitter hoy? ¿Cuántas veces has entrado en Instagram a ver los Stories de tus amigos? ¿Cuántas veces has entrado a contestar mensaje en WhatsApp? ¿Cuántas veces te has leído las políticas de privacidad de los sitios en los que estas registrado?
+Probablemente la respuesta oscile entre el -1 y el 0, pero no te preocupes, nadie va a juzgarte.
+Eso se debe, principalmente, a que estas políticas y acuerdos son extremadamente largos y – deliberadamente o no – escritos de una manera que los hace ininteligibles para la gran mayoría de los usuarios.
+Se han hecho varios esfuerzos para descifrar estos documentos y presentar la información más crucial a los usuarios de una manera que puedan entenderlos sin tener que perder demasiado tiempo.
+La solución más novedosa esPolisis, un marco automatizado de análisis de políticas de privacidad alimentado por IA, yPriBot, un Bot gratuito que nos da respuestas a las preguntas que tengamos sobre las políticas de privacidad.
+
+«En el centro de Polisis se encuentra unmodelo lingüístico centrado en la privacidad, construido con políticas de privacidad de 130.000 sitios web y una novedosa jerarquía de clasificadores de redes neuronales que atiende los aspectos de alto nivel y los detalles detallados de las prácticas de privacidad«, explicaron los creadores.
+
+Si quieres conocer los detalles técnicos sobre como lo crearon puedes leer el desarrolloaquí(el documento esta en inglés). Si por el contrario quieres aprovechar lo que la herramienta ofrece puedes hacer clicaquíyaquí.
+El primer link te redirige a una aplicación que dónde encontrarás una visión visual de los diferentes aspectos de la política de privacidad que deseas examinar. El segundo enlace te llevará a unchatbot que responderá a tus preguntas en tiempo real:
+
+Los creadores remarcan que «Polisis no pretende reemplazar la política de privacidad -como documento legal- con una interpretación automatizada».
+Sin embargo, puede ofrecer una buena instantánea de la información que es importante para el usuario final
+Señalan también que el marco Polisis podría utilizarse en última instancia para permitir aplicaciones de compra comparativa que aconsejan al consumidor comparando los aspectos de privacidad de las múltiples aplicaciones que desea elegir.
+Tanto por curiosidad como por deber (son tus datos los que están en juego), no está de más que le eches un vistazo a aquellos sitios en los que estés (o quieras estar) registrado.
+Más información |Polisis
+
+Δ
+Este sitio utiliza Akismet para reducir el spam.Conoce cómo se procesan los datos de tus comentarios.
+4.288.475 visitas
