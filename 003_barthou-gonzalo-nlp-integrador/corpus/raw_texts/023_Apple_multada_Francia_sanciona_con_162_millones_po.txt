@@ -1,8 +1,8 @@
 URL: https://www.pagina12.com.ar/815391-apple-multada-francia-sanciona-con-162-millones-por-opacas-n
-Título: Apple multada: Francia sanciona con $162 millones por opacas normas de privacidad
-Autor/Fuente: No disponible
-Fecha: 2024-01-15T18:29:59+00:00
-Categoría: Noticia
+Título: Apple multada: Francia sanciona con $162 millones por opacas normas de privacidad | El gigante de Silicon Valley enfrenta un conflicto legal en Europa tras una investigación exhaustiva
+Autor: Página12
+Fecha: 1743693874
+Categoría: Agencia Informativa
 
 EN VIVO
 Appleenfrenta una fuerte sanción económica en Europa. La Autoridad de Competencia de Francia, organismo regulador del mercado, ha ordenado a la compañía tecnológica pagar una multa de 150 millones de euros, aproximadamente 162 millones de dólares. La razón: el sistema de Transparencia en el Seguimiento de Aplicaciones (App Tracking Transparency, ATT), implementado porAppleen 2021. Aunque presentado como una herramienta para dar mayor control a los usuarios sobre su privacidad, el regulador francés argumenta que este sistema crea obstáculos desproporcionados para los desarrolladores, en especial para aquellos más pequeños que no cuentan con bases de datos comerciales sólidas.

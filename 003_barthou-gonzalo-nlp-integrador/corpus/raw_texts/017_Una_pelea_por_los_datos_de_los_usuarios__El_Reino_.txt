@@ -1,8 +1,8 @@
 URL: https://www.pagina12.com.ar/853565-una-pelea-por-los-datos-de-los-usuarios
-Título: Una pelea por los datos de los usuarios
-Autor/Fuente: No disponible
-Fecha: 2024-01-15T18:29:59+00:00
-Categoría: Noticia
+Título: Una pelea por los datos de los usuarios | El Reino Unido quiere acceder a los datos de millones de usuarios de Apple
+Autor: Página12
+Fecha: 1756513870
+Categoría: Sociedad
 
 EN VIVO
 Un documento judicial habría afirmado queel gobierno inglés quiso acceder a más información privada de usuarios de Apple, encriptadas bajo el servicio de Protección Avanzada de Datos (ADP).La solicitud se realizó bajo la ley de Poderes de Investigación, que podría haber permitido al gobierno buscar acceso a millones de clientes de la empresa, incluso de otros países.
