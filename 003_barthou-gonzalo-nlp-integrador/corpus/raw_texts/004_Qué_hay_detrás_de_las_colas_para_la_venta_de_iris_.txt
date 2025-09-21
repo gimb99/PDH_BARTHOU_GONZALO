@@ -1,8 +1,8 @@
 URL: https://www.anred.org/que-hay-detras-de-las-colas-para-la-venta-de-iris/
-Título: ¿Qué hay detrás de las colas para la venta de iris?
-Autor/Fuente: No disponible
-Fecha: 2022-09-26T18:15:45+00:00
-Categoría: Derecho
+Título: ¿Qué hay detrás de las colas para la venta de iris? | ANRed
+Autor: No disponible
+Fecha: 2024-01-11 00:00:00
+Categoría: Ciencia y Tecnología
 
 En la Argentina miles de personas se dejaron escanear el iris de sus ojos a cambio de una identificación digital y criptomonedas gratis.
 Un mes de diciembre caluroso e inflacionario, una multitud hace largas colas bajo un implacable sol: en distintos lugares de la ciudad de Buenos Aires, en el conurbano bonaerense y en algunas provincias argentinas las personas transpiran para obtener una cantidad de criptomonedas a cambio de la venta de sus iris. Custodios de sacos negros organizan a jóvenes, cartoneros, mujeres con hijos y muchos desocupados, en una ordenada fila de personas registradas para escanearles el iris por lo que pagan con criptomonedas en la plataforma Worldcoin, el nuevo proyecto de criptomonedas de Sam Altman, director ejecutivo de la empresa desarrolladora OpenAI, creadora del famoso ChatGPT. ¿Para qué almacenar tantas imágenes de iris de humanos? ¿Dónde se almacenan?  ¿Qué podrá hacer esta base de datos global? El dominio del mundo digital está migrando de «los dueños de Internet» a los «dueños de los datos digitales»: multimillonarios con empresas que gestionan volúmenes gigantescos de información, clasificada en forma precisa y bien segmentada. La recopilación de datos biométricos arrincona el ejercicio de derechos humanos fundamentales.Por Alfredo Moreno, para Esfera Comunicacional.
