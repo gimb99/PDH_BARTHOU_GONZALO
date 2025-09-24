@@ -25,8 +25,13 @@
 3. Ejecutar el notebook: `jupyter notebook notebooks/analisis_integrador.ipynb`
 
 ## Limitaciones y Trabajo Futuro
+- Tamaño de corpus > Se deberá ampliar en algún momento el volumen para lograr obtener distribuciones más realistas de palabras usadas
+- Stopwords > Actualmente se dispone de una lista de stopwords custom que puede ampliarse para omitir ciertas palabras que aportan poco contexto
+- WebScraping > Obtener Autores de fuentes de forma más optimizada, no se ha podido extraer la data de muchas urls utilizadas
 
 ## Autor
+Gonzalo B. - gimb99
+Trabajo Integrador - NLP - 25/09/2025
 
 ## Dependencias
 
@@ -40,6 +45,12 @@ seaborn>=0.11.0
 nltk>=3.7.0
 wordcloud>=1.8.0
 jupyter>=1.0.0
+os
+re
+collections / Counter
+BeautifulSoup
+requests
+shutil
 ```
 
 ## Notas
