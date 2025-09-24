@@ -1,6 +1,8 @@
 # Trabajo Integrador Individual: Pipeline completo de NLP
 ## Descripción
+Este directorio tendrá como propósito asignado la extracción, exploración y análisis de un corpus de texto de tipo periodístico.
 
+Se ha elegido como temática principal el sector de tecnología, con énfasis en el término "privacidad", y tomando de contexto artículos periodísticos recientes (desde 2020 a 2025, aproximadamente). La finalidad de este filtrado es explorar las siguientes hipótesis que están mejor elaboradas en el notebook [/notebook/analisis_integrador.ipynb]
 
 ## Información del Corpus
 
@@ -30,7 +32,7 @@
 - WebScraping > Obtener Autores de fuentes de forma más optimizada, no se ha podido extraer la data de muchas urls utilizadas
 
 ## Autor
-Gonzalo B. - gimb99
+Gonzalo B. - @gimb99
 Trabajo Integrador - NLP - 25/09/2025
 
 ## Dependencias
