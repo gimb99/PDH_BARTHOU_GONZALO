@@ -31,6 +31,7 @@ Soon...
 
 ## Tecnologías Utilizadas
 - Python 3.x
+- Google Colaboratory
 - pandas, numpy
 - scikit-learn
 - spaCy
