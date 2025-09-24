@@ -49,6 +49,7 @@ Soon...
 
 ## Autor
 Gonzalo B. - @gimb99
+
 Trabajo Integrador - NLP - 25/09/2025
 
 ## Notas
