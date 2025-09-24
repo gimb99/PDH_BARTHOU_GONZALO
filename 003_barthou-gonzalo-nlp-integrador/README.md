@@ -27,6 +27,7 @@ Se omiten otros sitios periodisticos como Clarin, La Nación e Infobae ya que no
 - Análisis con Word Embeddings (spaCy)
 
 ## Principales Hallazgos
+Soon...
 
 ## Tecnologías Utilizadas
 - Python 3.x
