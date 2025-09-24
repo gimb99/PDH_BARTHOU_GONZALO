@@ -51,26 +51,6 @@ Soon...
 Gonzalo B. - @gimb99
 Trabajo Integrador - NLP - 25/09/2025
 
-## Dependencias
-
-```
-pandas>=1.3.0
-numpy>=1.21.0
-scikit-learn>=1.0.0
-spacy>=3.4.0
-matplotlib>=3.5.0
-seaborn>=0.11.0
-nltk>=3.7.0
-wordcloud>=1.8.0
-jupyter>=1.0.0
-os
-re
-collections / Counter
-BeautifulSoup
-requests
-shutil
-```
-
 ## Notas
 Este notebook está diseñado como un ejercicio integrador, combinando varios temas importantes del procesamiento del habla
 
