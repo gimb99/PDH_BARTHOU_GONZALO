@@ -1,19 +1,37 @@
 # Trabajo Integrador Individual: Pipeline completo de NLP
 ## Descripción
+Este directorio tendrá como propósito asignado la extracción, exploración y análisis de un corpus de texto de tipo periodístico.
 
+Se ha elegido como temática principal el sector de tecnología, con énfasis en el término "privacidad", y tomando de contexto artículos periodísticos recientes (desde 2020 a 2025, aproximadamente). La finalidad de este filtrado es explorar las siguientes hipótesis que están mejor elaboradas en el notebook [/notebook/analisis_integrador.ipynb]:
+
+* ¿Son realmente necesarias las nuevas exigencias en los términos y condiciones modificados?
+
+* ¿Por qué se necesitan nuevas regulaciones año tras año de parte de protección de datos?
+
+* ¿El factor económico de redistribución de datos personales sigue siendo tan presente como hace 5 años?
+
+La hipótesis que planteo es que si bien se vió enlentecido el proceso de nuevos requerimientos que involucren vender nuestra privacidad de datos personales, sigue siendo igual de relevante que durante la década pasada.
 
 ## Información del Corpus
+El corpus seleccionado está compuesto por las siguientes fuentes elegidas:
+
+* https://derechodelared.com/
+* https://www.anred.org/
+* https://www.pagina12.com.ar/
+
+Se omiten otros sitios periodisticos como Clarin, La Nación e Infobae ya que no proporcionaban suficiente información relevante al filtro que queremos aplicar
 
 ## Técnicas de NLP Aplicadas
 - Preprocesamiento de texto (limpieza, tokenización, stop words)
 - Análisis con Bag of Words (BoW) y TF-IDF
 - Análisis con Word Embeddings (spaCy)
-- [Técnica complementaria aplicada: POS/Sentiment/NER]
 
 ## Principales Hallazgos
+Soon...
 
 ## Tecnologías Utilizadas
 - Python 3.x
+- Google Colaboratory
 - pandas, numpy
 - scikit-learn
 - spaCy
@@ -30,7 +48,7 @@
 - WebScraping > Obtener Autores de fuentes de forma más optimizada, no se ha podido extraer la data de muchas urls utilizadas
 
 ## Autor
-Gonzalo B. - gimb99
+Gonzalo B. - @gimb99
 Trabajo Integrador - NLP - 25/09/2025
 
 ## Dependencias
