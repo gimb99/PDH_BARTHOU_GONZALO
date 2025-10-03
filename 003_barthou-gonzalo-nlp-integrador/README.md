@@ -27,7 +27,15 @@ Se omiten otros sitios periodisticos como Clarin, La Nación e Infobae ya que no
 - Análisis con Word Embeddings (spaCy)
 
 ## Principales Hallazgos
-Soon...
+Si bien no responden necesariamente las pretenciones de la hipótesis planteada, se encontraron las siguientes relaciones de términos:
+- La presencia de "capitalismo" en las relaciones de Política, Seguridad y el Derecho de los usuarios
+- La presencia de "seguridad" como posible justificativo para desamparar la Privacidad de los usuarios
+
+Asímismo, se encuentran varias menciones de países de Europa (incluyendo esta vez a Gran Bretaña) con los avances de legislaciones relacionadas a vulnerar el derecho a la privacidad del usuario promedio en pos de incrementar la seguridad con mayor cibervigilancia a través de aplicaciones de mensajería o que utilicen modelos de Inteligencia Artificial. 
+
+No se hacen muchas menciones de países latinoamericanos en esta cuestión, lo cual puede ser por seguir dichas tendencias europeas pasado un cierto tiempo.
+
+Los clusters generados a partir del corpus seleccionado tiene distribuciones balanceadas y separadas en 5 temas posibles, lo cual fue una sorpresa considerando que se pensó tomar una menor variedad en la selección de asuntos de artículos periodísticos.
 
 ## Tecnologías Utilizadas
 - Python 3.x
