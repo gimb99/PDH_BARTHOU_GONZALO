@@ -26,5 +26,11 @@ En el campo del Procesamiento de Lenguaje Natural existen diferentes enfoques me
 ## Dependencias
 `spacy`, `trafilatura`, `pandas`, `matplotlib`, `wordcloud`, `plotly`
 
+## Autor
+
+- Gonzalo B.
+- Técnicas de Procesamiento de Imágenes
+- Año: 2025
+
 ## Notas
 Este notebook está diseñado como un ejercicio anexo, combinando varios temas importantes del procesamiento del habla
