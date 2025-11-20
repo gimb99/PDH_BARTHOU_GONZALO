@@ -27,10 +27,11 @@ El procesamiento del lenguaje natural (PLN) es un subcampo de la informática y 
 
 Aquí puedes encontrar una lista de las carpetas con los notebooks incluidos en este repositorio y una breve descripción de cada uno:
 
-* [Ejercicio Integrador 0](001_Integrador_0) 
+* [Ejercicio Integrador 0](000_Integrador_0) 
 * [Ejercicio Integrador 1](001_Integrador_1)
-* [Ejercicio Integrador N](003_barthou-gonzalo-nlp-integrador)
-* [Proyecto Integrador Final](SOON.md): Aplicamos las técnicas aprendidas en diferentes clases, así como en los trabajos integradores anteriores...
+* [Ejercicio Integrador 2 - Anexo](002_Anexo_01)
+* [Ejercicio Integrador 3](004_Ejercicios_Progresivos_Transformers)
+* [Proyecto Integrador Individual](003_barthou-gonzalo-nlp-integrador): Aplicamos las técnicas aprendidas en diferentes clases, así como en los trabajos integradores anteriores
 
 ## Instalación
 ### Requisitos y dependencias
